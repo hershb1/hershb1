@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @hershb1
-- 👀 I’m interested in pursuing a Product Management career
-- 🌱 I’m currently learning Unity Engine
-- 💞️ I’m looking to collaborate on product cases
-- 📫 How to reach me [hershb@schulich.yorku.ca]
+
